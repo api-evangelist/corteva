@@ -1,7 +1,11 @@
 aid: corteva
-url: https://raw.githubusercontent.com/api-evangelist/corteva/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/corteva/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.corteva.com
+description: >-
+  Corteva Agriscience™ is a publicly traded, global pure-play agriculture company
+  that provides farmers around the world with the most complete portfolio in the industry.
