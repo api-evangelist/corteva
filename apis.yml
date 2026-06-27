@@ -67,7 +67,7 @@ common:
     url: https://us.insights.granular.ag/
   - type: PrivacyPolicy
     url: https://www.corteva.com/utility/privacy-statement.html
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.corteva.com/utility/terms-of-use.html
   - type: Contact
     url: https://www.corteva.com/contact-us.html
